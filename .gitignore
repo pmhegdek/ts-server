@@ -1,0 +1,8 @@
+# ignore node modules
+node_modules
+
+# ignore dist folder
+dist
+
+# ignore package-lock.json
+package-lock.json
